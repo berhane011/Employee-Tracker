@@ -134,12 +134,10 @@ You are required to submit the following:
 * A video demonstrating the entirety of the app's functionality 
 
 - - -
- * A screenshot demonstrating the entirety of the app's functionality 
+ # A screenshot demonstrating the entirety of the app's functionality 
 
-![photo of screen shot](asset\demo1.png)
-![photo of screen shot](asset\demo2.png)
-![photo of screen shot](asset\demo3.png)
-![photo of screen shot](asset\demo4.png)
-![photo of screen shot](asset\demo5.png)
-![photo of screen shot](asset\demo6.png)
-![photo of screen shot](asset\demo.png)
+![photo of screen shot1](asset\demo1.png)
+![photo of screen shot2](asset\demo2.png)
+![photo of screen shot3](asset\demo3.png)
+![photo of screen shot4](asset\demo4.png)
+![photo of screen shot5](asset\demo5.png)

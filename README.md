@@ -6,7 +6,7 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 Design the following database schema containing three tables:
 
-![Database Schema](Assets/schema.png)
+![Database Schema](asset/schema.png)
 
 * **department**:
 
@@ -66,7 +66,7 @@ How do you deliver this? Here are some guidelines:
 
 * You will need to perform a variety of SQL JOINS to complete this assignment, and it's recommended you review the week's activities if you need a refresher on this.
 
-![Employee Tracker](Assets/employee-tracker.gif)
+![Employee Tracker](asset/employee-tracker.gif)
 
 ### Hints
 
@@ -134,4 +134,12 @@ You are required to submit the following:
 * A video demonstrating the entirety of the app's functionality 
 
 - - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+ * A screenshot demonstrating the entirety of the app's functionality 
+
+![photo of screen shot](asset\demo1.png)
+![photo of screen shot](asset\demo2.png)
+![photo of screen shot](asset\demo3.png)
+![photo of screen shot](asset\demo4.png)
+![photo of screen shot](asset\demo5.png)
+![photo of screen shot](asset\demo6.png)
+![photo of screen shot](asset\demo.png)
